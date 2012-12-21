@@ -1,12 +1,6 @@
-﻿---
-
-layout : post
-
-category : lesson
-s
-tags : [开始]
-
 ---
-
-
+layout : post
+category : lessons
+tags : [开始]
+---
 ##hello world again!
