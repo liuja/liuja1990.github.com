@@ -1,7 +1,7 @@
 ---
 layout : post
 category : lessons
-tags : [��ʼ]
+tags : [开始】
 ---
 
-##�����������죡2012.12.20
+##今天是阴雨天，又是冬至日，也是玛雅人传说中的~~
